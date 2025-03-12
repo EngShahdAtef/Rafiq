@@ -261,17 +261,10 @@ nav .toggle {
     overflow-y: auto;
 }
 ::-webkit-scrollbar{
-    width: 15px;
+    width: 10px;
 
 }
-::-webkit-scrollbar-track{
-    background-color: var(--main-color) ;
-    margin: 0;
-    padding: 0;
-}
-::-webkit-scrollbar-thumb{
-    background-color: #1a1008;
-}
+
 .to-do .todo-container{
     display: flex;
     align-items: center;
