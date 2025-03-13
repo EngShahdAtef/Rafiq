@@ -149,7 +149,7 @@ nav .toggle {
 /* ==========================================================hero section */
 .hero {
     height: 87vh;
-    background-image: url(./images/hero6.jpg);
+    background-image: url(../images/hero6.jpg);
     background-size: cover;
     position: relative;
     z-index: -9;
